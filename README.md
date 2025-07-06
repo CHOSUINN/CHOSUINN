@@ -41,7 +41,7 @@
 
 <div align="center">
     <span>
-        <a href="https://solved.ac/ljhkys6874/">
+        <a href="https://solved.ac/chosuin0826/">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chosuin0826" height="150px"/>
         </a>
     </span>
